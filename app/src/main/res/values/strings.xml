@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">07-interaksi-pengguna-room_11</string>
+    <string-array name="android_dropdown_arrays">
+        <item>Teknologi Informasi</item>
+        <item>Teknologi Mesin</item>
+        <item>Teknologi Sipil</item>
+        <item>Teknologi Kimia</item>
+        <item>Teknologi Elektronika</item>
+        <item>Akuntansi</item>
+        <item>Administrasi Niaga</item>
+        <item>Bahasa Inggris</item>
+    </string-array>
+</resources>
